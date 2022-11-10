@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+h1{
+    color:yellow;
+}
+h2{
+    color:brown;
+}
+#actor{
+    background-color: red;
+    padding:10px;
+    border-radius:10px;
+    border:none;
+}
+h3{
+    color:black;
+}
+li{
+    color:green;
+}
+footer{
+    color:aqua;
+}
